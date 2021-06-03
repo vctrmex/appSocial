@@ -1,0 +1,11 @@
+{
+    "Simulator Target Bundle": "com.chat.snap.com",
+    "aps": {
+     "alert" : {
+       "title" : "Hola Hackermen 💻📲",
+       "body" : "¡Bienvenido a MoureDev!"
+     },
+        "sound": "default",
+        "badge": 0
+    }
+}
